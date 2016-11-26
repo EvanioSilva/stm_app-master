@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/cadast_lbTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Cadastro de Usuário"
+            android:textSize="@dimen/title_text_size"
+            android:layout_margin="@dimen/form_text_size"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="@integer/form_small_input_weight"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="25dp"
+                android:text="Nome:"
+                android:textSize="@dimen/form_text_size" />
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtUsuarioNome"
+                android:layout_width="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:layout_height="wrap_content"
+                android:enabled="true"
+                android:singleLine="true"
+                >
+            </EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="25dp"
+                android:text="CPF ou Número Funcional: "
+                android:textSize="@dimen/form_text_size"
+                />
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtUsuarioCPF"
+                android:layout_width="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:enabled="true"
+                android:singleLine="true"
+                android:inputType="number"
+                >
+            </EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="@integer/form_small_input_weight"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="25dp"
+                android:text="Senha:"
+                android:textSize="@dimen/form_text_size" />
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtUsuarioSenha"
+                android:layout_width="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:layout_height="wrap_content"
+                android:enabled="true"
+                android:singleLine="true" >
+            </EditText>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnSalvarUsuario"
+            android:layout_width="300dp"
+            android:layout_height="55dp"
+            android:layout_gravity="center"
+            android:text="Salvar Usuário"
+            android:textSize="@dimen/form_text_size"
+            android:layout_margin="@dimen/form_text_size"/>
+
+        <ListView
+            android:id="@+id/listusuarios"
+            android:layout_width="400dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center" >
+        </ListView>
+
+    </LinearLayout>
+
+</LinearLayout>

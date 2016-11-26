@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.rastreabilidadeinterna"
+    android:versionCode="350"
+    android:versionName="3.9">
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <meta-data
+        android:name="DATABASE"
+        android:value="stmdb.db" />
+    <meta-data
+        android:name="VERSION"
+        android:value="2" />
+    <meta-data
+        android:name="QUERY_LOG"
+        android:value="true" />
+
+    <application
+        android:name="com.orm.SugarApp"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_stmarket"
+        android:label="ST Market"
+        android:theme="@android:style/Theme.Holo.Light.DarkActionBar"
+        tools:replace="android:icon">
+        <activity
+            android:name="com.rastreabilidadeInterna.geral.MainSplashScreen"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.rastreabilidadeInterna.geral.ActivityTelaInicial"
+            android:label="ST Market v3.12"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar" />
+        <activity
+            android:name="com.rastreabilidadeInterna.controleEstoque.ActivityControleEstoque"
+            android:label="@string/title_activity_controleestoque_principal"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.rastreabilidadeInterna.geral.ActivityTelaInicial"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar">
+            <meta-data
+                android:name="amdroid.suport.PARENT_ACTIVITY"
+                android:value="com.rastreabilidadeInterna.geral.abas" />
+        </activity>
+        <activity
+            android:name="com.rastreabilidadeInterna.fracionamento.ActivityFracionamento"
+            android:label="@string/title_activity_fracionamento_principal"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.rastreabilidadeInterna.geral.ActivityTelaInicial"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.rastreabilidadeInterna.geral.ActivityTelaInicial" />
+        </activity>
+        <activity
+            android:name="com.rastreabilidadeInterna.geral.varGlobais"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.rastreabilidadeInterna.geral.ActivityAdicionarReceita"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.rastreabilidadeInterna.preparacao.preparacaoPrincipal"
+            android:label="@string/title_activity_preparacao_principal"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.rastreabilidadeInterna.geral.ActivityTelaInicial"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.rastreabilidadeInterna.preparacao.preparacaoPrincipal" />
+        </activity>
+        <activity
+            android:name="com.rastreabilidadeInterna.geral.receitas"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.rastreabilidadeInterna.geral.ActivityCadastroDeUsuario"
+            android:label="@string/title_activity_cadastrodeusuarios"
+            android:parentActivityName="com.rastreabilidadeInterna.geral.ActivityTelaInicial"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.rastreabilidadeInterna.geral.ActivityTelaInicial" />
+        </activity>
+        <activity android:name="com.rastreabilidadeInterna.geral.ActivityLoginDialog" />
+        <activity
+            android:name="com.rastreabilidadeInterna.geral.ActivityIngredientes"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.rastreabilidadeInterna.fracionamento.ActivityGranel"
+            android:label="@string/title_activity_fracionamento_granel"
+            android:parentActivityName="com.rastreabilidadeInterna.fracionamento.ActivityFracionamento"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.rastreabilidadeInterna.fracionamento.ActivityFracionamento" />
+        </activity>
+        <activity
+            android:name="com.rastreabilidadeInterna.geral.ActivityConfiguracaoDeArea"
+            android:label="@string/title_activity_activity_configuracao_de_area"
+            android:parentActivityName="com.rastreabilidadeInterna.geral.ActivityTelaInicial"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.rastreabilidadeInterna.geral.ActivityTelaInicial" />
+        </activity>
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.CentroDeDistribuicao"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_centro_de_distribuicao"
+            android:parentActivityName="com.rastreabilidadeInterna.geral.ActivityTelaInicial"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.rastreabilidadeInterna.geral.ActivityTelaInicial" />
+        </activity>
+        <activity
+            android:name="com.rastreabilidadeInterna.controleEstoque.ActivityHistoricoControleDeEstoque"
+            android:label="@string/title_activity_activity_historico_controle_de_estoque"
+            android:parentActivityName="com.rastreabilidadeInterna.controleEstoque.ActivityControleEstoque"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.rastreabilidadeInterna.controleEstoque.ActivityControleEstoque" />
+        </activity>
+        <activity
+            android:name="com.rastreabilidadeInterna.controleEstoque.ActivityAssociarEtiquetas"
+            android:label="@string/title_activity_activity_associar_etiquetas"
+            android:parentActivityName="com.rastreabilidadeInterna.controleEstoque.ActivityControleEstoque">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.rastreabilidadeInterna.controleEstoque.ActivityControleEstoque" />
+        </activity>
+        <activity
+            android:name="com.rastreabilidadeInterna.preparacao.ActivityRelatorioPreparacao"
+            android:label="@string/title_activity_activity_relatorio_preparacao" />
+        <activity
+            android:name="com.rastreabilidadeInterna.fracionamento.ActivityHistoricoFracionamento"
+            android:label="@string/title_activity_activity_historico_fracionamento"
+            android:parentActivityName="com.rastreabilidadeInterna.fracionamento.ActivityFracionamento"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar">
+            >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.rastreabilidadeInterna.fracionamento.ActivityFracionamento" />
+        </activity>
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.ActivityRecebimento"
+            android:label="@string/title_activity_activity_amostragem"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.ActivityControleDeEstoqueCD"
+            android:label="@string/title_activity_activity_controle_de_estoque_cd"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar" />
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.ActivityAmostragem"
+            android:label="@string/title_activity_activity_amostragem"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.ActivityAssociar"
+            android:label="@string/title_activity_activity_associar"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.ActivityRelatorioControleDeEstoqueCD"
+            android:label="@string/title_activity_activity_relatorio_controle_de_estoque_cd" />
+        <activity
+            android:name="com.rastreabilidadeInterna.preparacao.ActivityProducaoDoDia"
+            android:label="@string/title_activity_activity_producao_do_dia"
+            android:parentActivityName="com.rastreabilidadeInterna.preparacao.preparacaoPrincipal">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.rastreabilidadeInterna.preparacao.preparacaoPrincipal" />
+        </activity>
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.ActivityTestes"
+            android:label="@string/title_activity_activity_testes"
+            android:parentActivityName="com.rastreabilidadeInterna.centrodedistribuicao.ActivityControleDeEstoqueCD">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.rastreabilidadeInterna.centrodedistribuicao.ActivityControleDeEstoqueCD" />
+        </activity>
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.ActivityRecebimentoHortifruti"
+            android:label="@string/title_activity_activity_recebimento_hortifruti"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.ActivityControleDeEstoqueCDHortifruti"
+            android:label="@string/title_activity_activity_controle_de_estoque_cdhortifruti"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Light.DarkActionBar" />
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.ActivityAmostragemHortifruti"
+            android:label="@string/title_activity_activity_amostragem_hortifruti"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.ActivityAssociarHortifruti"
+            android:label="@string/title_activity_activity_associar_hortifruti"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.ActivityRelatorioCDHorifruti"
+            android:label="@string/title_activity_activity_relatorio_cdhorifruti" />
+
+        <service
+            android:name="com.rastreabilidadeInterna.service.UploadService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.ActivityTeste"
+            android:label="@string/title_activity_activity_teste"
+            android:parentActivityName="com.rastreabilidadeInterna.centrodedistribuicao.ActivityTestes"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.rastreabilidadeInterna.centrodedistribuicao.ActivityTestes" />
+        </activity>
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.ActivitySelecionaRecebimentoFrios"
+            android:label="@string/title_activity_activity_seleciona_recebimento_frios" />
+        <activity
+            android:name="com.rastreabilidadeInterna.centrodedistribuicao.ActivitySelecionaRecebimentoFriosItem"
+            android:label="@string/title_activity_activity_seleciona_recebimento_frios_item"></activity>
+    </application>
+
+</manifest>

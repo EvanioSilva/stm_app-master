@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<gradient
+	    android:angle="270"
+	    android:startColor="@color/nav_bar_up"
+	    android:centerColor="@color/nav_bar_up"
+	    android:endColor="@color/nav_bar_down" />
+	
+</shape>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="form_large_input_weight">8</integer>
+    <integer name="form_medium_input_weight">4</integer>
+    <integer name="form_small_input_weight">2</integer>
+
+</resources>

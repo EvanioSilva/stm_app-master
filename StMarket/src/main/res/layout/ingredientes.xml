@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dip"
+        android:background="@drawable/shape_nav_bar" >
+
+        <Button
+            android:id="@+id/ing_btnAdm"
+            android:layout_width="100dp"
+            android:layout_height="40dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/shape_nav_btn"
+            android:text="Admin"
+            android:textColor="@color/nav_btn_txt"
+            android:textSize="15dip"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingTop="7dp"
+            android:text="Ingredientes"
+            android:textColor="@color/nav_text"
+            android:textSize="25dip" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/my_custom_background"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/ing_novoIng"
+            android:layout_width="250dp"
+            android:layout_height="fill_parent"
+            android:background="@drawable/button_a"
+            android:text="Novo ingrediente"
+            android:textSize="20dp" />
+        
+                <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="Toque em cima do ingrediente para editar ou excluir"
+            android:textColor="@color/black"
+            android:layout_marginLeft="100dp"
+            android:textSize="15dip" />
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/my_custom_background"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/ing_listview"
+            android:layout_width="500dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center" >
+        </ListView>
+    </LinearLayout>
+
+</LinearLayout>

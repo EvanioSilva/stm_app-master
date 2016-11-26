@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.rastreabilidadeInterna.preparacao.preparacaoPrincipal">
+    <item
+        android:id="@+id/action_username"
+        android:title="@string/action_username"
+        android:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/action_Logout"
+        android:title="Logout"
+        android:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/action_producao_diaria"
+        android:title="Registrar Produção Diária"
+        android:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_relatorio"
+        android:title="@string/action_relatorio"
+        android:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_receitasdodia"
+        android:title="@string/action_receitasdodia"
+        android:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_historico"
+        android:title="@string/action_historico"
+        android:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_atualizarreceitas"
+        android:title="@string/action_atualizarreceitas"
+        android:showAsAction="ifRoom"
+        />
+
+</menu>

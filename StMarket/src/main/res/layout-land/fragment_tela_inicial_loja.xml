@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Space
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"/>
+
+    <Button
+        android:drawableLeft="@drawable/estoque"
+        android:paddingLeft="270dp"
+        android:paddingRight="270dp"
+        android:drawablePadding="0dp"
+        android:id="@+id/btnCtlEstoque"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:text="Controle de Estoque"
+        android:textSize="25dp" >
+    </Button>
+
+    <Space
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"/>
+
+    <Button
+        android:drawableLeft="@drawable/fracionamento"
+        android:id="@+id/btnFracion"
+        android:paddingLeft="270dp"
+        android:paddingRight="270dp"
+        android:drawablePadding="0dp"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:enabled="true"
+        android:text="Fracionamento"
+        android:textSize="25dp" >
+    </Button>
+
+    <Space
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"/>
+
+    <Button
+        android:drawableLeft="@drawable/preparacao"
+        android:id="@+id/btnPrepar"
+        android:paddingLeft="270dp"
+        android:paddingRight="270dp"
+        android:drawablePadding="0dp"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:layout_gravity="center"
+        android:enabled="true"
+        android:text="Preparação"
+        android:textSize="25dp" >
+    </Button>
+
+    <Space
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+</LinearLayout>

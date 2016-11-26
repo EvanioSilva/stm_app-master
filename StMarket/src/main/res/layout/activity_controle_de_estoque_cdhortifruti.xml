@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/estoq_btnStatus"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="right"
+            android:gravity="right"
+            android:background="@drawable/shape_nav_not_no"
+            android:layout_alignParentRight="true"
+            />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="12"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="@integer/form_medium_input_weight">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtNumRomaneio"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:hint="Número Bono/Romaneio"
+                android:enabled="true"
+                android:inputType="number"
+                android:nextFocusForward="@+id/edtPlaca"
+                android:nextFocusDown="@+id/edtPlaca"
+                android:textSize="@dimen/form_input_size"
+                ></EditText>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="@integer/form_medium_input_weight">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Número Bono/Romaneio"
+                android:textSize="@dimen/form_text_size" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="12"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="@integer/form_medium_input_weight">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtPlacaCaminhao"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:hint="Placa do Caminhão"
+                android:enabled="true"
+                android:inputType="text"
+                android:nextFocusForward="@+id/edtPlaca"
+                android:nextFocusDown="@+id/edtPlaca"
+                android:textSize="@dimen/form_input_size"
+                ></EditText>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="@integer/form_medium_input_weight">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Placa do Caminhão"
+                android:textSize="@dimen/form_text_size" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="12"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="@integer/form_medium_input_weight">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtDataRecebimento"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:textSize="@dimen/form_input_size"
+                android:enabled="false"
+                android:hint="Data de Recepção"
+                android:inputType="date"
+                android:nextFocusForward="@+id/edtNumRecepcao"
+                />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="@integer/form_medium_input_weight">
+
+            <TextView
+                android:id="@+id/tvSetorOrigem"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Data de Recepção"
+                android:textSize="@dimen/form_text_size" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="@integer/form_medium_input_weight">
+
+        <Button
+            android:id="@+id/btnLimpar"
+            android:layout_width="0dp"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:layout_height="match_parent"
+            android:text="Limpar"
+            />
+        <Button
+            android:id="@+id/btnReceber"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:text="Receber"/>
+
+    </LinearLayout>
+
+</LinearLayout>

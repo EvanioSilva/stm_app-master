@@ -1,0 +1,184 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.rastreabilidadeInterna.controleEstoque.ActivityAssociarEtiquetas">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="Etiquetas do produto: "/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:layout_gravity="center"
+                android:gravity="left|center"
+                android:textSize="@dimen/form_input_size"
+                android:text="Nome do produto"
+                android:id="@+id/textViewNomeProduto"
+                />
+
+            </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="center"
+                android:text="Colar Etiquetas em: "
+                android:gravity="center"
+                android:textSize="@dimen/form_input_size" />
+
+            <RadioGroup
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="center"
+                android:orientation="horizontal"
+                android:id="@+id/rdgrpUnico" >
+
+                <RadioButton
+                    android:id="@+id/rdbtPecas"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/black"
+                    android:text="Peças"
+                    android:textSize="@dimen/form_input_size" />
+
+                <RadioButton
+                    android:checked="true"
+                    android:id="@+id/rdbtCaixas"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/black"
+                    android:text="Caixas"
+                    android:textSize="@dimen/form_input_size" />
+
+            </RadioGroup>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="Etiqueta: "
+                android:textSize="@dimen/form_input_size"
+                android:layout_gravity="center"
+                android:gravity="center"
+                />
+
+            <EditText
+                android:id="@+id/editTextEtiqueta"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:hint="Leia a etiqueta"
+                android:textSize="@dimen/form_input_size"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:imeOptions="flagNoExtractUi"
+
+                />
+
+            <Button
+                android:id="@+id/buttonOK"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="OK"
+                android:textSize="@dimen/form_input_size"
+                android:layout_gravity="center"
+                android:gravity="center"
+                />
+
+            </LinearLayout>
+
+        <ListView
+            android:id="@+id/listViewEtiquetas"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="9">
+
+
+
+            </ListView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:text="Selos lidos:"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    />
+
+                <TextView
+                    android:id="@+id/textViewSelosLidos"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="2"
+                    android:text="X/X"
+                    android:textStyle="bold"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:textSize="@dimen/form_input_size"/>
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/buttonFinalizarLeitura"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="4"
+                android:text="Finalizar Leitura de Etiquetas"
+                android:textSize="@dimen/form_input_size"/>
+
+        </LinearLayout>
+
+
+        </LinearLayout>
+
+</RelativeLayout>
