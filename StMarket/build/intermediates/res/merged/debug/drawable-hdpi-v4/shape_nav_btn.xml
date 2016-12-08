@@ -1,0 +1,17 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:padding="16dp"
+	android:shape="rectangle" >
+
+	<corners
+	    android:radius="6dp" />
+
+	<gradient
+	    android:angle="270"
+	    android:endColor="@color/nav_btn_out"
+	    android:centerColor="@color/nav_btn_in"
+	    android:startColor="@color/nav_btn_out" />
+	
+	<size 
+	    android:height="5dp"/>
+	
+</shape>

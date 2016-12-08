@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/estoq_btnStatus"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="right"
+            android:gravity="right"
+            android:background="@drawable/shape_nav_not_no"
+            android:layout_alignParentRight="true"
+            />
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="24"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:hint="Código de Barras da Caixa"
+                android:id="@+id/edtOrigem_caixa"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:singleLine="true"
+                android:nextFocusForward="@id/edtOrigem_caixa"
+                android:textSize="@dimen/form_input_size_small"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="top|right"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:text="Código de Barras da Caixa"
+                android:textSize="@dimen/form_text_size"
+                android:gravity="top|right"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="24"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtOrigem"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:singleLine="true"
+                android:hint="Código de Barras do Produto"
+                android:nextFocusForward="@+id/edtTipo"
+                android:textSize="@dimen/form_input_size_small"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:text="Código de Barras do Produto"
+                android:textSize="@dimen/form_text_size"
+                android:gravity="top|right"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="24"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <AutoCompleteTextView
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtTipo"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:inputType="text"
+                android:hint="Nome do produto"
+                android:nextFocusForward="@+id/edtMarca"
+                android:textSize="@dimen/form_input_size_small"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Nome do produto"
+                android:textSize="@dimen/form_text_size"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtMarca"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:singleLine="true"
+                android:nextFocusForward="@+id/edtFornecedor"
+                android:textSize="@dimen/form_input_size_small"
+                android:hint="Nota Fiscal"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Nota Fiscal"
+                android:textSize="@dimen/form_text_size" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="24"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtFornecedor"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:inputType="text"
+                android:hint="Fornecedor"
+                android:nextFocusForward="@+id/edtSetor"
+                android:textSize="@dimen/form_input_size_small"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Fornecedor"
+                android:textSize="@dimen/form_text_size"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:id="@+id/spSetor"
+                />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Setor"
+                android:textSize="@dimen/form_text_size" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="24"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtSif"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:hint="SIF"
+                android:nextFocusForward="@+id/edtPh"
+                android:nextFocusDown="@+id/edtDataVal"
+                android:textSize="@dimen/form_input_size_small"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="SIF"
+                android:textSize="@dimen/form_text_size"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtDataVal"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:inputType="date"
+                android:hint="Data Validade"
+                android:textIsSelectable="true"
+                android:nextFocusForward="@id/edtDataFab"
+                android:textSize="@dimen/form_input_size_small"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="top|right"
+                android:text="Data de Validade"
+                android:textSize="@dimen/form_text_size"
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="48"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtDataFab"
+                android:layout_width="match_parent"
+                android:layout_height="63dp"
+                android:enabled="true"
+                android:inputType="date"
+                android:textIsSelectable="true"
+                android:nextFocusForward="@+id/edtPesoCaixa"
+                android:textSize="@dimen/form_input_size_small"
+                android:hint="Data Fabricação"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Data de Fabricação"
+                android:textSize="@dimen/form_text_size"
+                />
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtPesoCaixa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:hint="Número do Lote"
+                android:nextFocusForward="@+id/edtPh"
+                android:nextFocusDown="@+id/edtDataFab"
+                android:textSize="@dimen/form_input_size_small"
+                />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.7"/>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_small_input_weight"
+                android:text="Dias Até Vencimento:"
+                android:layout_gravity="bottom|center"
+                android:gravity="center|bottom"
+                android:textStyle="bold"
+                android:textSize="@dimen/form_text_size"
+                />
+
+            <TextView
+                android:id="@+id/diasAteVencimento"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:textStyle="bold"
+                android:background="@color/grey"
+                android:text="Aguardando datas..."
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="@dimen/form_input_size"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="266dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="@integer/form_medium_input_weight"
+        android:textStyle="bold"
+        android:gravity="top|right"
+        android:text="Número do Lote"
+        android:textSize="30px"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fotos do Rótulo"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="16">
+
+        <Button
+            android:id="@+id/btnLimpar"
+            android:layout_width="0dp"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:layout_height="match_parent"
+            android:text="Limpar"
+            />
+
+        <Button
+            android:id="@+id/btnAmostrar"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:layout_gravity="center"
+            android:text="Inspeção"
+            />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8">
+
+    </View>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="16"
+        android:text="Finalizar Carga"
+        android:id="@+id/btnFinalizarCarga"
+        />
+
+</LinearLayout>

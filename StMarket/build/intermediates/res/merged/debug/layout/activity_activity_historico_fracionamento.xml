@@ -1,0 +1,163 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.rastreabilidadeInterna.fracionamento.ActivityHistoricoFracionamento">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:text="Produtos Fracionados no Dia: "
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="25dp"
+                />
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:inputType="date"
+                android:id="@+id/editTextDateHistorico"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="25dp"
+                android:hint="DD/MM/AAAA"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="Selo"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@drawable/border_relatorio"
+                />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="Nome"
+                android:textStyle="bold"
+
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@drawable/border_relatorio"
+                />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="Fabricante"
+                android:textStyle="bold"
+
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@drawable/border_relatorio"
+                />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="SIF"
+                android:textStyle="bold"
+
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@drawable/border_relatorio"
+                />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="Lote"
+                android:textStyle="bold"
+
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@drawable/border_relatorio"
+                />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="Data de Fabricação"
+                android:textStyle="bold"
+
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@drawable/border_relatorio"
+                />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="Data de Validade"
+                android:textStyle="bold"
+
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@drawable/border_relatorio"
+                />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="Quantidade"
+                android:textStyle="bold"
+
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@drawable/border_relatorio"
+                />
+
+        </LinearLayout>
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:id="@+id/LinearLayoutHistorico"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+</RelativeLayout>

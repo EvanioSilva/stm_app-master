@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Insira Suas Credenciais\nPara Acessar Esta Área"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_margin="100dp"
+        android:textSize="@dimen/title_text_size"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/form_text_size"
+        android:text="Usuário: "
+        android:layout_marginLeft="20dp"
+        />
+    <Spinner
+        android:id="@+id/spnNomesUsuarios"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/form_text_size"
+        android:text="Senha: "
+        android:layout_marginLeft="20dp"
+        />
+    <EditText
+        android:imeOptions="flagNoExtractUi"
+
+        android:id="@+id/edtSenha"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:hint="password"
+        android:inputType="textPassword" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="150dip"
+            android:layout_height="60dip"
+            android:text="Login" />
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:layout_width="150dip"
+            android:layout_height="60dip"
+            android:text="Cancelar" />
+    </LinearLayout>
+
+</LinearLayout>

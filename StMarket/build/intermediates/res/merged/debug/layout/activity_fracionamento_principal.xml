@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="@integer/form_small_input_weight"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical"
+                    android:text="Novo Selo:"
+                    android:textSize="@dimen/form_text_size"
+                    />
+
+                <EditText
+
+                    android:id="@+id/edtSeloFrac"
+                    android:imeOptions="flagNoExtractUi"
+                    android:hint="código"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="@integer/form_medium_input_weight"
+                    android:singleLine="true"
+                    android:enabled="true"
+                    android:inputType="number" >
+                </EditText>
+
+                <Button
+                    android:id="@+id/btnEnviarFrac"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="@integer/form_small_input_weight"
+                    android:layout_gravity="center"
+                    android:text="OK"
+                    >
+                </Button>
+
+                <Button
+                    android:id="@+id/btnLimparFrac"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="@integer/form_small_input_weight"
+                    android:layout_gravity="center"
+                    android:text="Limpar"
+                    >
+                </Button>
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/grey"
+                    android:layout_margin="15dp"/>
+
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="Granel"
+                    android:layout_weight="@integer/form_medium_input_weight"
+                    android:id="@+id/btnGranel"
+                    />
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/grey"
+                    android:layout_margin="15dp"
+                    />
+
+                <Button
+                    android:id="@+id/frac_btnStatus"
+                    android:layout_width="40dip"
+                    android:layout_height="40dip"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="44dp"
+                    android:background="@drawable/shape_nav_not_no"
+                    android:textSize="15dip"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="25dp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/txDiaAtual"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Produtos lidos no dia:"
+                    android:textSize="@dimen/title_text_size"
+                    />
+
+                <ListView
+                    android:id="@+id/listviewFrac"
+                    android:layout_width="400dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    >
+                </ListView>
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
