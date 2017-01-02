@@ -22,8 +22,11 @@ import com.rastreabilidadeInterna.centrodedistribuicao.objects.MemFile;
 import java.io.File;
 import java.io.FilenameFilter;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+import java.util.Comparator;
+
 
 public class ActivitySelecionaRecebimentoFriosItem extends Activity {
 
@@ -43,13 +46,17 @@ public class ActivitySelecionaRecebimentoFriosItem extends Activity {
 
     public static File pathOrigem = new File(Environment.getExternalStorageDirectory() + File.separator + "Carrefour" + File.separator + "Origem");
 
-    private Button btnManual;;
+    private Button btnManual;
     private Button btnStatus;
     private LinearLayout ll;
     public HelperFtpIn helperFTP;
 
     private String filenamemask;
 
+    private Button btnOder1;
+    private Button btnOder2;
+    private Button btnOder3;
+    public List<String> opcoes = null;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -66,9 +73,54 @@ public class ActivitySelecionaRecebimentoFriosItem extends Activity {
         defineComponente();
         defineAction();
         carregaLista();
+        preparaOrdenacao();
 
         setStatus();
     }
+
+    private void preparaOrdenacao() {
+
+        btnOder1 = (Button) findViewById(R.id.btnOrd1);
+        btnOder2 = (Button) findViewById(R.id.btnOrd2);
+        btnOder3 = (Button) findViewById(R.id.btnOrd3);
+
+        btnOder1.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Collections.sort(opcoes, new Comparator<String>() {
+                    public int compare(String s1, String s2) {
+                        String a = s1.substring(1, 2);
+                        String b = s1.substring(1, 2);
+                        return a.compareTo(b);
+                    }
+                });
+                popularLista();
+            }
+        });
+        btnOder2.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Collections.sort(opcoes, new Comparator<String>() {
+                    public int compare(String s1, String s2) {
+                        String a = s1.substring(1, 2);
+                        String b = s1.substring(1, 2);
+                        return a.compareTo(b);
+                    }
+                });
+                popularLista();
+            }
+        });
+        btnOder3.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Collections.sort(opcoes, new Comparator<String>() {
+                    public int compare(String s1, String s2) {
+                        String a = s1.substring(1, 2);
+                        String b = s1.substring(1, 2);
+                        return a.compareTo(b);
+                    }
+                });
+                popularLista();
+            }
+        });
+    };
 
     private void defineComponente(){
         btnManual = (Button) findViewById(R.id.btnManual);
@@ -130,7 +182,7 @@ public class ActivitySelecionaRecebimentoFriosItem extends Activity {
         final String subNOK = "__"+filenamemask.substring(2);
 
         ll.removeAllViews();
-        List<String> opcoes = new ArrayList<String>();
+        opcoes = new ArrayList<String>();
 
         File fNokList[] = pathOrigem.listFiles(new FilenameFilter() {
             public boolean accept(File dir, String name) {
@@ -152,6 +204,11 @@ public class ActivitySelecionaRecebimentoFriosItem extends Activity {
             opcoes.add(fOkList[i].getName());
         }
 
+        popularLista();
+
+    }
+
+    public void popularLista() {
         for (int i = 0; i<opcoes.size(); i++){
 
             String opcao = opcoes.get(i);
@@ -203,7 +260,6 @@ public class ActivitySelecionaRecebimentoFriosItem extends Activity {
             ll.addView(entrada);
 
         }
-
     }
 
     private void acaoSelecionado(String filename){
@@ -243,7 +299,7 @@ public class ActivitySelecionaRecebimentoFriosItem extends Activity {
             public void run() {
 
                 //stuff that updates ui
-                if (helperFTP.path.list().length > 0) {
+                if (HelperFTP.path.list().length > 0) {
                     btnStatus.setBackgroundResource(R.drawable.background_red);
                 } else {
                     btnStatus.setBackgroundResource(R.drawable.background_green);
