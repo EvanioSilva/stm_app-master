@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/estoq_btnStatus"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="right"
+                    android:gravity="right"
+                    android:background="@drawable/shape_nav_not_no"
+                    android:layout_alignParentRight="true"
+                    />
+
+            </RelativeLayout>
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:hint="Código de Barras da Caixa"
+                android:id="@+id/edtOrigem_caixa"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:singleLine="true"
+                android:nextFocusForward="@id/edtOrigem_caixa"
+                android:textSize="@dimen/form_input_size"
+            />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="top|right"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:text="Código de Barras da Caixa"
+                android:textSize="@dimen/form_text_size"
+                android:gravity="top|right"
+                />
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtOrigem"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:singleLine="true"
+                android:hint="Código de Barras do Produto"
+                android:nextFocusForward="@id/spinnerTipo"
+                android:textSize="@dimen/form_input_size"
+            />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="@integer/form_medium_input_weight"
+        android:layout_gravity="top|right"
+        android:text="Código de Barras do Produto"
+        android:textSize="@dimen/form_text_size"
+        android:gravity="top|right"
+        />
+
+    <EditText
+        android:imeOptions="flagNoExtractUi"
+
+        android:id="@+id/spinnerTipo"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="@integer/form_large_input_weight"
+        android:enabled="true"
+        android:inputType="text"
+        android:hint="Nome do produto:"
+        android:nextFocusForward="@id/edtDataFab"
+        android:nextFocusDown="@id/edtDataFab"
+        android:textSize="@dimen/form_input_size"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="@integer/form_medium_input_weight"
+        android:layout_gravity="top|right"
+        android:gravity="top|right"
+        android:text="Nome do produto"
+        android:textSize="@dimen/form_text_size"
+        />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="24"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtDataFab"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:inputType="date"
+                android:textIsSelectable="true"
+                android:nextFocusForward="@id/edtDataVal"
+                android:textSize="@dimen/form_input_size"
+                android:hint="Data Fabricação"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Data de Fabricação"
+                android:textSize="@dimen/form_text_size"
+                />
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtDataVal"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:inputType="date"
+                android:hint="Data Validade"
+                android:textIsSelectable="true"
+                android:nextFocusForward="@id/edtFabr"
+                android:textSize="@dimen/form_input_size"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Data de Validade"
+                android:textSize="@dimen/form_text_size"
+                />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.7"/>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_small_input_weight"
+                android:text="Dias Até Vencimento:"
+                android:layout_gravity="bottom|center"
+                android:gravity="center|bottom"
+                android:textStyle="bold"
+                android:textSize="@dimen/form_text_size"
+                />
+
+            <TextView
+                android:id="@+id/diasAteVencimento"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:textStyle="bold"
+                android:background="@color/grey"
+                android:text="Aguardando datas..."
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="@dimen/form_input_size"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <EditText
+        android:imeOptions="flagNoExtractUi"
+
+        android:id="@+id/edtFabr"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="@integer/form_large_input_weight"
+        android:enabled="true"
+        android:singleLine="true"
+        android:nextFocusForward="@id/edtSif"
+        android:textSize="@dimen/form_input_size"
+        android:hint="Nome do Fabricante"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="@integer/form_medium_input_weight"
+        android:layout_gravity="top|right"
+        android:gravity="top|right"
+        android:text="Nome do Fabricante"
+        android:textSize="@dimen/form_text_size" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="12"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="@integer/form_large_input_weight">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtSif"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:inputType="number"
+                android:singleLine="true"
+                android:hint="SIF"
+                android:nextFocusForward="@id/edtLote"
+                android:nextFocusDown="@id/edtLote"
+                android:textSize="@dimen/form_input_size"
+                >
+            </EditText>
+
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtLote"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:textSize="@dimen/form_input_size"
+                android:enabled="true"
+                android:singleLine="true"
+                android:hint="Lote"
+                />
+
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtPeso"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:textSize="@dimen/form_input_size"
+                android:enabled="true"
+                android:singleLine="true"
+                android:inputType="number"
+                android:nextFocusForward="@id/edtQtd"
+                android:nextFocusDown="@id/edtQtd"
+                android:hint="Peso em g"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="@integer/form_medium_input_weight">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="SIF"
+                android:textIsSelectable="true"
+                android:textSize="@dimen/form_text_size" />
+
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Lote"
+                android:textIsSelectable="false"
+                android:textSize="@dimen/form_text_size"
+                />
+
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Peso Caixa (em g):"
+                android:textSize="@dimen/form_text_size" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="12"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="@integer/form_large_input_weight">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtQtd"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:textSize="@dimen/form_input_size"
+                android:enabled="true"
+                android:hint="Peças / Caixa"
+                android:inputType="number"
+                android:nextFocusForward="@id/edtQtdCaixas"
+                >
+            </EditText>
+
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtQtdCaixas"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:hint="QTD Caixas"
+                android:enabled="true"
+                android:inputType="number"
+                android:nextFocusForward="@id/edtSeloSafe"
+                android:nextFocusDown="@id/edtSeloSafe"
+                android:textSize="@dimen/form_input_size"
+                ></EditText>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="@integer/form_medium_input_weight">
+
+            <TextView
+                android:id="@+id/tvQtd"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Peças/Caixa:"
+                android:textSize="@dimen/form_text_size" />
+
+            <Space
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:id="@+id/tvQtdCaixas"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Qtd de Caixas:"
+                android:textSize="@dimen/form_text_size" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="@integer/form_large_input_weight">
+
+        <Button
+            android:id="@+id/btnLimpar"
+            android:layout_width="0dp"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:layout_height="match_parent"
+            android:text="Limpar"
+            />
+        <Button
+            android:id="@+id/btnSalvar"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:layout_gravity="center"
+            android:text="Salvar Informações"
+            />
+        <Button
+            android:id="@+id/btnLerEtiquetas"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:text="Associar Etiquetas"/>
+
+    </LinearLayout>
+
+</LinearLayout>

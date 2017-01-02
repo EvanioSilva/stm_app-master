@@ -10,8 +10,6 @@
         android:orientation="vertical"
         android:padding="10dp">
 
-
-
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -36,6 +34,30 @@
             android:id="@+id/btnManual"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="20px"/>
+
+        <android.widget.TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:shrinkColumns="*"  android:stretchColumns="*" >
+            <TableRow>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cód. Prod."
+                android:id="@+id/btnOrd1"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nome Prod."
+                android:id="@+id/btnOrd2"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lote"
+                android:id="@+id/btnOrd3"/>
+        </TableRow>
+        </android.widget.TableLayout>]
 
         <ScrollView
             android:layout_width="fill_parent"

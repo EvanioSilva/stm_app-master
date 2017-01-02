@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_fracionamento_granel.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_fracionamento_granel.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tela_inicial.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_tela_inicial.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_amostragem_hortifruti.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_amostragem_hortifruti.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_producao_do_dia.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_producao_do_dia.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_laudo.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_laudo.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_associar_hortifruti.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_associar_hortifruti.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_controle_de_estoque_cdhortifruti.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_controle_de_estoque_cdhortifruti.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_controleestoque_principal.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_controleestoque_principal.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_associar.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_associar.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_controle_de_estoque_cdhortifruti.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_controle_de_estoque_cdhortifruti.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_amostragem.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_amostragem.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_testes.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_testes.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_fracionamento_granel.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_fracionamento_granel.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_associar.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_associar.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_configuracao_de_area.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_configuracao_de_area.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_historico_fracionamento.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_historico_fracionamento.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_recebimento_hortifruti.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_recebimento_hortifruti.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_configuracao_de_area.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_configuracao_de_area.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_historico_fracionamento.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_historico_fracionamento.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_controle_de_estoque_cd.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_controle_de_estoque_cd.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_teste.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_teste.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_associar_etiquetas.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_associar_etiquetas.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_producao_do_dia.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_producao_do_dia.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_recebimento_hortifruti.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_recebimento_hortifruti.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_relatorio_preparacao.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_relatorio_preparacao.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cadastrodeusuarios.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_cadastrodeusuarios.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_relatorio_cdhorifruti.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_relatorio_cdhorifruti.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_amostragem.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_amostragem.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_preparacao_principal.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_preparacao_principal.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_associar_hortifruti.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_associar_hortifruti.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_centro_de_distribuicao.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_centro_de_distribuicao.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_controleestoque_principal.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_controleestoque_principal.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_relatorio_controle_de_estoque_cd.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_relatorio_controle_de_estoque_cd.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_relatorio_preparacao.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_relatorio_preparacao.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_relatorio_controle_de_estoque_cd.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_relatorio_controle_de_estoque_cd.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_fracionamento_principal.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_fracionamento_principal.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_historico_controle_de_estoque.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_historico_controle_de_estoque.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_controle_de_estoque_cd.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_controle_de_estoque_cd.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tela_inicial.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_tela_inicial.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_fracionamento_principal.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_fracionamento_principal.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_historico_controle_de_estoque.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_historico_controle_de_estoque.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_amostragem_hortifruti.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_amostragem_hortifruti.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_relatorio_cdhorifruti.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_relatorio_cdhorifruti.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cadastrodeusuarios.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_cadastrodeusuarios.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_centro_de_distribuicao.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_centro_de_distribuicao.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_teste.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_teste.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_preparacao_principal.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_preparacao_principal.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_laudo.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_laudo.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_associar_etiquetas.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_associar_etiquetas.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_testes.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\menu\\menu_activity_testes.xml"
+    }
+]

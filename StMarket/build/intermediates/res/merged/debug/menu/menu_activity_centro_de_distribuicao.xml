@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.rastreabilidadeInterna.centrodedistribuicao.CentroDeDistribuicao">
+    <item
+        android:id="@+id/action_username"
+        android:title="@string/action_username"
+        android:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/action_Logout"
+        android:title="Logout"
+        android:showAsAction="ifRoom"
+        />
+</menu>

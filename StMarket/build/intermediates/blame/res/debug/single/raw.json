@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\raw\\beep.ogg"
-    },
-    {
         "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
         "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\raw\\beep.ogg"
     }

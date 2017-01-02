@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-large-port-v4\\activity_controleestoque_principal.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\layout-large-port\\activity_controleestoque_principal.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-large-port-v4\\varglobais.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\layout-large-port\\varglobais.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-large-port-v4\\activity_tela_inicial.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\layout-large-port\\activity_tela_inicial.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-large-port-v4\\varglobais.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\layout-large-port\\varglobais.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-large-port-v4\\activity_tela_inicial.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\layout-large-port\\activity_tela_inicial.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-large-port-v4\\activity_controleestoque_principal.xml",
+        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\layout-large-port\\activity_controleestoque_principal.xml"
+    }
+]

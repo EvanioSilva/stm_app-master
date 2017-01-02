@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-large-land-v4\\activity_tela_inicial.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\layout-large-land\\activity_tela_inicial.xml"
-    },
-    {
         "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-large-land-v4\\activity_tela_inicial.xml",
         "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\layout-large-land\\activity_tela_inicial.xml"
     }

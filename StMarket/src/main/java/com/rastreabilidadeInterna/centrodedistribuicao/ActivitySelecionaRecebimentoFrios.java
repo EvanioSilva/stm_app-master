@@ -22,6 +22,7 @@ import java.io.File;
 import java.io.FilenameFilter;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 public class ActivitySelecionaRecebimentoFrios extends Activity {
@@ -46,6 +47,10 @@ public class ActivitySelecionaRecebimentoFrios extends Activity {
     private Button btnStatus;
     private LinearLayout ll;
     public HelperFtpIn helperFTP;
+    private Button btnOder1;
+    private Button btnOder2;
+    private Button btnOder3;
+    public List<String> opcoes = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,10 +66,60 @@ public class ActivitySelecionaRecebimentoFrios extends Activity {
 
         defineComponente();
         defineAction();
-        carregaLista();
-
+        opcoes = new ArrayList<String>();
+        popularLista(false);
+        preparaOrdenacao();
         setStatus();
     }
+
+    private void preparaOrdenacao() {
+
+        btnOder1 = (Button) findViewById(R.id.btnOrd1);
+        btnOder2 = (Button) findViewById(R.id.btnOrd2);
+        btnOder3 = (Button) findViewById(R.id.btnOrd3);
+
+        //Placa
+        btnOder1.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Collections.sort(opcoes, new Comparator<String>() {
+                    public int compare(String s1, String s2) {
+                        String a =  s1.split("_")[0];
+                        String b =  s2.split("_")[0];
+                        return b.compareTo(a);
+                    }
+                });
+                popularLista(true);
+            }
+        });
+
+        //Fornecedor
+        btnOder2.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Collections.sort(opcoes, new Comparator<String>() {
+                    public int compare(String s1, String s2) {
+                        String a =  s1.split("_")[1];
+                        String b =  s2.split("_")[1];
+                        return b.compareTo(a);
+                    }
+                });
+                popularLista(true);
+            }
+        });
+
+        //Nota
+        btnOder3.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Collections.sort(opcoes, new Comparator<String>() {
+                    public int compare(String s1, String s2) {
+                        String a =  s1.split("_")[2];
+                        String b =  s2.split("_")[2];
+                        return b.compareTo(a);
+                    }
+                });
+                popularLista(true);
+            }
+        });
+    };
 
     private void defineComponente(){
         btnManual = (Button) findViewById(R.id.btnManual);
@@ -111,63 +166,65 @@ public class ActivitySelecionaRecebimentoFrios extends Activity {
 
     }
 
-    private void carregaLista(){
+    private void popularLista(boolean flgAtualizarLista){
 
         ll.removeAllViews();
-        List<String> opcoes = new ArrayList<String>();
 
-        File fOkList[] = pathOrigem.listFiles(new FilenameFilter() {
-            public boolean accept(File dir, String name) {
-                return name.startsWith("OK_");
-            }
-        });
+        if (!flgAtualizarLista)
+        {
+            File fOkList[] = pathOrigem.listFiles(new FilenameFilter() {
+                public boolean accept(File dir, String name) {
+                    return name.startsWith("OK_");
+                }
+            });
 
-        for (int i = 0; i<fOkList.length; i++) {
+            for (int i = 0; i < fOkList.length; i++) {
 
-            String nome_arquivo_original = fOkList[i].getName();
-            String nome_arquivo = nome_arquivo_original.substring(11, nome_arquivo_original.length() - 3);
-            String[] nomes = nome_arquivo.split("_");
+                String nome_arquivo_original = fOkList[i].getName();
+                String nome_arquivo = nome_arquivo_original.substring(11, nome_arquivo_original.length() - 3);
+                String[] nomes = nome_arquivo.split("_");
 
-            String placa = nomes[0];
-            String fornecedor = nomes[1];
-            String nota = nomes[2];
+                String placa = nomes[0];
+                String fornecedor = nomes[1];
+                String nota = nomes[2];
 
-            String referencia = "1_" + placa + "_" + fornecedor + "_" + nota;
+                String referencia = "1_" + placa + "_" + fornecedor + "_" + nota;
 
-            if (!opcoes.contains(referencia)) {
-                opcoes.add(referencia);
-            }
-
-        }
-
-        File fNokList[] = pathOrigem.listFiles(new FilenameFilter() {
-            public boolean accept(File dir, String name) {
-                return name.startsWith("___");
-            }
-        });
-
-        for (int i = 0; i<fNokList.length; i++) {
-
-            String nome_arquivo_original = fNokList[i].getName();
-            String nome_arquivo = nome_arquivo_original.substring(11, nome_arquivo_original.length() - 3);
-            String[] nomes = nome_arquivo.split("_");
-
-            String placa = nomes[0];
-            String fornecedor = nomes[1];
-            String nota = nomes[2];
-
-            String referencia = "0_" + placa + "_" + fornecedor + "_" + nota;
-            String referencia_espelho = "1_" + placa + "_" + fornecedor + "_" + nota;
-
-            if (!opcoes.contains(referencia_espelho)) {
                 if (!opcoes.contains(referencia)) {
                     opcoes.add(referencia);
                 }
+
             }
 
-        }
+            File fNokList[] = pathOrigem.listFiles(new FilenameFilter() {
+                public boolean accept(File dir, String name) {
+                    return name.startsWith("___");
+                }
+            });
 
-        Collections.sort(opcoes);
+            for (int i = 0; i < fNokList.length; i++) {
+
+                String nome_arquivo_original = fNokList[i].getName();
+                String nome_arquivo = nome_arquivo_original.substring(11, nome_arquivo_original.length() - 3);
+                String[] nomes = nome_arquivo.split("_");
+
+                String placa = nomes[0];
+                String fornecedor = nomes[1];
+                String nota = nomes[2];
+
+                String referencia = "0_" + placa + "_" + fornecedor + "_" + nota;
+                String referencia_espelho = "1_" + placa + "_" + fornecedor + "_" + nota;
+
+                if (!opcoes.contains(referencia_espelho)) {
+                    if (!opcoes.contains(referencia)) {
+                        opcoes.add(referencia);
+                    }
+                }
+
+            }
+
+            Collections.sort(opcoes);
+        }
 
         for (int i = 0; i<opcoes.size(); i++){
 
@@ -250,7 +307,7 @@ public class ActivitySelecionaRecebimentoFrios extends Activity {
             @Override
             public void run() {
 
-                carregaLista();
+                popularLista(false);
             }
         });
     }

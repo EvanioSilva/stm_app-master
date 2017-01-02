@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_normal.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\button_normal.xml"
+    },
+    {
         "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stpressionado.jpg",
         "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\stpressionado.jpg"
     },
@@ -8,40 +12,36 @@
         "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\satrace.jpg"
     },
     {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera_button.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\camera_button.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_normal.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\button_normal.xml"
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_pressionado.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\button_pressionado.xml"
     },
     {
         "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shape_nav_bar.xml",
         "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\shape_nav_bar.xml"
     },
     {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_red.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\background_red.xml"
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_green.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\background_green.xml"
     },
     {
         "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera_button.xml",
         "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\camera_button.xml"
     },
     {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\exploded-aar\\com.github.satyan\\sugar\\1.3.1\\res\\drawable-hdpi-v4\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_button.xml",
-        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\add_button.xml"
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_red.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\background_red.xml"
     },
     {
         "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shape_nav_btn.xml",
         "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\shape_nav_btn.xml"
     },
     {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_button.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\add_button.xml"
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_button.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\add_button.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\exploded-aar\\com.github.satyan\\sugar\\1.3.1\\res\\drawable-hdpi-v4\\ic_launcher.png"
     },
     {
         "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\border.xml",
@@ -52,71 +52,11 @@
         "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\my_custom_background.xml"
     },
     {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_a.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\button_a.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_custom_background.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\my_custom_background.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_pressionado.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\button_pressionado.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shape_nav_btn.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\shape_nav_btn.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_normal.xml",
-        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\button_normal.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shape_nav_bar.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\shape_nav_bar.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_pressionado.xml",
-        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\button_pressionado.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_green.xml",
-        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\background_green.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\satrace.jpg",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\satrace.jpg"
-    },
-    {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\border.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\border.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stpressionado.jpg",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\stpressionado.jpg"
-    },
-    {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shape_nav_not_no.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\shape_nav_not_no.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_red.xml",
-        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\background_red.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\exploded-aar\\com.github.satyan\\sugar\\1.3.1\\res\\drawable-hdpi-v4\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_a.xml",
         "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\button_a.xml"
     },
     {
         "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shape_nav_not_no.xml",
         "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\shape_nav_not_no.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background_green.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\drawable-hdpi\\background_green.xml"
     }
 ]
