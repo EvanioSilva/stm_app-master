@@ -10,345 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cf46492-662b-4bfd-9f52-57bc71689083" name="Lista2" comment="Lista2">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/android/support/design/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/android/support/design/R$styleable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/BD/Repositorio.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragem$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragem$14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragem.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragemHortifruti$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragemHortifruti$5$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAssociar$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAssociarHortifruti$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAssociarHortifruti$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityControleDeEstoqueCD$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityControleDeEstoqueCDHortifruti$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimento$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimento$12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimento$4$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimento$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimentoHortifruti$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimentoHortifruti.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioCDHorifruti$14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioCDHorifruti$20.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioCDHorifruti$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioControleDeEstoqueCD$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioControleDeEstoqueCD.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityTestes$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ModelEtiquetaHortifruti.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ModelProdutoHortifruti.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ModelProdutoRecebido.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/controleEstoque/ActivityControleEstoque$17.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/controleEstoque/ActivityControleEstoque$23.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/controleEstoque/ActivityControleEstoque$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/controleEstoque/ActivityControleEstoque$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/controleEstoque/ActivityHistoricoControleDeEstoque$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/fracionamento/ActivityFracionamento$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/fracionamento/ActivityFracionamento$17$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/fracionamento/ActivityFracionamento$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/fracionamento/ActivityFracionamento$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/fracionamento/ActivityGranel$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/fracionamento/ActivityGranel$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/fracionamento/ActivityGranel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/fracionamento/ActivityHistoricoFracionamento$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/geral/ActivityIngredientes$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/geral/ActivityIngredientes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/geral/ActivityTelaInicial$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/geral/MainSplashScreen$1ContainerLong.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/geral/receitas$14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/geral/receitas$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/geral/varGlobais$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/helpers/LogGenerator$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/preparacao/ActivityRelatorioPreparacao$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/preparacao/ObjetoIntermediario$ObjetoIntermediarios.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/preparacao/preparacaoPrincipal$19.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/preparacao/preparacaoPrincipal$25.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/preparacao/preparacaoPrincipal$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-mdpi/abc_btn_rating_star_off_mtrl_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-mdpi/abc_ic_menu_share_mtrl_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.0/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/design/R$anim.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/design/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/design/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/design/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/design/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$anim.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/v7/cardview/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/v7/cardview/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/v7/gridlayout/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$integer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/orm/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragem$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragem$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragemHortifruti$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAssociar$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAssociarHortifruti$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAssociarHortifruti$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityControleDeEstoqueCDHortifruti$2$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityControleDeEstoqueCDHortifruti$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityControleDeEstoqueCDHortifruti$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimento$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimento$15.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimento$18.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimento$4$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimento$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimentoHortifruti$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimentoHortifruti.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioCDHorifruti$14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioCDHorifruti$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioCDHorifruti$20.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioCDHorifruti.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioControleDeEstoqueCD.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityTeste$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/HelperFTP$1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/HelperFTP$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ModelEtiquetaHortifruti.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/controleEstoque/ActivityAssociarEtiquetas$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/controleEstoque/ActivityControleEstoque$13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/controleEstoque/ActivityControleEstoque$22.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/controleEstoque/classificadorProdutoFabricante.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/fracionamento/ActivityFracionamento$15.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/fracionamento/ActivityFracionamento$16$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/fracionamento/ActivityFracionamento$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/fracionamento/ActivityGranel$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/fracionamento/objetoFracionamento.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/geral/ActivityAdicionarReceita$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/geral/ActivityAdicionarReceita.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/geral/ActivityCadastroDeUsuario$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/geral/ActivityCadastroDeUsuario.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/geral/ActivityIngredientes$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/geral/ActivityIngredientes$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/geral/Usuario$Usuarios.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/geral/receitas$18$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/geral/receitas$18.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/geral/receitas$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/geral/receitas$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/geral/varGlobais$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/helpers/HistoricoXMLController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/helpers/Random.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/preparacao/ActivityRelatorioPreparacao$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/preparacao/ActivityRelatorioPreparacao$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/preparacao/preparacaoPrincipal$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/preparacao/preparacaoPrincipal$15.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/preparacao/preparacaoPrincipal$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/preparacao/preparacaoPrincipal$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/packageDebug/zip-cache/D7gogn7O4u7xFDGRuWaYMVPjumY=" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-hdpi-v4/satrace.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_clear_mtrl_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_pressed_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-hdpi/abc_popup_background_mtrl_mult.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-hdpi/ic_stmarket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi/abc_ic_ab_back_mtrl_am_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi/abc_ic_menu_cut_mtrl_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-mdpi/abc_btn_rating_star_on_mtrl_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-mdpi/abc_ic_voice_search_api_mtrl_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-mdpi/ic_photo_camera_black_48dp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-xhdpi/abc_list_pressed_holo_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-xhdpi/abc_list_pressed_holo_light.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_rating_star_off_mtrl_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable/estoque.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable/saida.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/resources-debug.ap_" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/cardview/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragem$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragem$11$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragem$14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragem$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragemHortifruti$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragemHortifruti$5$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragemHortifruti$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAssociarHortifruti$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityControleDeEstoqueCD$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityControleDeEstoqueCDHortifruti$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimento$4$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimento$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimentoHortifruti$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioCDHorifruti$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioCDHorifruti$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioCDHorifruti$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioCDHorifruti.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioControleDeEstoqueCD$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityTestes$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityTestes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/HelperFTP$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ModelEtiquetaHortifruti.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ModelProdutoHortifruti.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/controleEstoque/ActivityAssociarEtiquetas.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/controleEstoque/ActivityControleEstoque$13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/controleEstoque/ActivityControleEstoque$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/fracionamento/ActivityFracionamento$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/fracionamento/ActivityFracionamento$19$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/fracionamento/ActivityFracionamento$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/fracionamento/ActivityFracionamento.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/fracionamento/ActivityHistoricoFracionamento$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/geral/ActivityIngredientes$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/geral/ActivityTelaInicial.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/geral/DownloadFTP$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/geral/receitas$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/geral/receitas$12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/geral/receitas$18$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/geral/varGlobais$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/geral/varGlobais.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/preparacao/ActivityProducaoDoDia$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/preparacao/ActivityRelatorioPreparacao$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/preparacao/ObjetoHistoricoPreparacao$Ingrediente.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/preparacao/preparacaoPrincipal$12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/preparacao/preparacaoPrincipal$15.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/preparacao/preparacaoPrincipal$21.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/preparacao/preparacaoPrincipal$23$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/preparacao/preparacaoPrincipal$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/outputs/apk/StMarket-debug.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/generated/source/r/debug/android/support/design/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-da.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-et-rEE.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-gl-rES.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ml-rIN.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-nb.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-th.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-tr.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-v11.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-v14.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-v17.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-v18.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-w500dp-v13.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-w720dp-v13.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-xlarge-land-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/layout-normal-port-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/anim/abc_grow_fade_in_from_bottom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/anim/abc_popup_enter.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/anim/abc_slide_in_top.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/color/abc_primary_text_material_light.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_dialog_material_background_dark.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_bar_title_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_search_view.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_media_action.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_media_cancel_action.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/select_dialog_singlechoice_material.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-af/values-af.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-bn-rBD/values-bn-rBD.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-en-rIN/values-en-rIN.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-fr-rCA/values-fr-rCA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-fr/values-fr.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-gl-rES/values-gl-rES.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-ky-rKG/values-ky-rKG.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-sr/values-sr.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-sw/values-sw.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-ta-rIN/values-ta-rIN.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-tr/values-tr.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v11/values-v11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-w720dp/values-w720dp.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/anim/snackbar_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/layout_snackbar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values-sw600dp/values-sw600dp.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/aidl/android/support/v4/media/MediaMetadataCompat.aidl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3.1/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/anim/abc_fade_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/anim/abc_fade_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/anim/fab_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable-hdpi-v4/shape_nav_not_no.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout-large-land-v4/activity_tela_inicial.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout/activity_controleestoque_principal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout/activity_recebimento_hortifruti.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout/activity_teste.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout/design_navigation_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout/layout_snackbar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout/picture_taker.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout/receitas.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/menu/capture.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/menu/encode.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/menu/history.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/menu/menu_activity_historico_controle_de_estoque.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-ca/values-ca.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-da/values-da.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-iw/values-iw.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-kn-rIN/values-kn-rIN.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-ko/values-ko.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-lt/values-lt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-nl/values-nl.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-sk/values-sk.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-ur-rPK/values-ur-rPK.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-v17/values-v17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/restart-dex/debug/build-info.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StMarket/build/outputs/logs/manifest-merger-debug-report.txt" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_android_21.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_2_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/cardview_v7_21_0_0.xml" afterPath="" />
@@ -361,225 +22,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/sugar_1_3_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_22_2_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_22_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/android/support/design/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$drawable.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$id.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$integer.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$layout.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$menu.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$raw.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$raw.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$string.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$style.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$styleable.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$xml.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/example/rastreabilidadeinterna/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimento.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimento.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioCDHorifruti.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRelatorioCDHorifruti.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$1$1.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$2.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$3.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$5.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$6.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$7.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$8.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$1$1.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$1.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$2.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$4.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$5.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$6.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$7.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$8.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/CentroDeDistribuicao.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/centrodedistribuicao/CentroDeDistribuicao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/geral/ActivityTelaInicial.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/geral/ActivityTelaInicial.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/geral/Fragment/TelaInicialCentroDeDistribuicao.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/geral/Fragment/TelaInicialCentroDeDistribuicao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/geral/varGlobais.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/geral/varGlobais.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/preparacao/ActivityProducaoDoDia.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/preparacao/ActivityProducaoDoDia.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/preparacao/ActivityRelatorioPreparacao.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/preparacao/ActivityRelatorioPreparacao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/preparacao/preparacaoPrincipal.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/classes/debug/com/rastreabilidadeInterna/preparacao/preparacaoPrincipal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/design/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$id.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$layout.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$menu.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$raw.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$raw.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$string.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$style.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$styleable.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$xml.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/example/rastreabilidadeinterna/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragem.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityAmostragem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$1$1.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$1.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$2.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$3.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$4.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$5.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$6.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$7.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$8.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$HelperFtpIn.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$HelperFtpIn.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$1$1.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$1.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$2.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$3.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$4.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$5.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$6.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$7.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$8.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityTestes.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/centrodedistribuicao/ActivityTestes.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/fracionamento/ActivityFracionamento.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/fracionamento/ActivityFracionamento.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/geral/ActivityConfiguracaoDeArea.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental-verifier/debug/com/rastreabilidadeInterna/geral/ActivityConfiguracaoDeArea.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/D7gogn7O4u7xFDGRuWaYMVPjumY=" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/D7gogn7O4u7xFDGRuWaYMVPjumY=" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_b49b436afab264cd9b0f28cbd64b0d636b212cbd.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_b49b436afab264cd9b0f28cbd64b0d636b212cbd.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-21.0.0_e4a4e6d2a3282d400d943aa700e9b9076567eb88.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-21.0.0_e4a4e6d2a3282d400d943aa700e9b9076567eb88.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/com.android.support-design-22.2.0_53afe9c92344c5205d199dedae1b5adca20ffa21.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/com.android.support-design-22.2.0_53afe9c92344c5205d199dedae1b5adca20ffa21.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-21.0.0_90c14ff0adbac6710df01847e02009736b91d89c.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-21.0.0_90c14ff0adbac6710df01847e02009736b91d89c.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-21.0.0_3f47804dcc519d2c40af0873180ef4595ccf8449.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-21.0.0_3f47804dcc519d2c40af0873180ef4595ccf8449.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_0c07d9a9f58ee816a5c7eec920add0508507bd26.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_0c07d9a9f58ee816a5c7eec920add0508507bd26.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/com.github.satyan-sugar-1.3.1_a0c9a9b2b103fa36400527de20e5d503be4373ec.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/com.github.satyan-sugar-1.3.1_a0c9a9b2b103fa36400527de20e5d503be4373ec.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/commons-net-3.1_d0ff94e439488b938c20ce105eabc904d7906611.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/commons-net-3.1_d0ff94e439488b938c20ce105eabc904d7906611.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/gson-2.3.1_22f148885e90585e4fec70bf04f96071a36a6f4f.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/gson-2.3.1_22f148885e90585e4fec70bf04f96071a36a6f4f.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/instant-run-bootstrap_84ffb7db9c9004feb9488a92d0c5333d65e86382.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/instant-run-bootstrap_84ffb7db9c9004feb9488a92d0c5333d65e86382.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/instant-run_f20fd0febc0d8589e200fd8be6f87440842b80ca.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/instant-run_f20fd0febc0d8589e200fd8be6f87440842b80ca.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_ab613811d4c47f73bfccf1269768dedc8f44f5fe.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_ab613811d4c47f73bfccf1269768dedc8f44f5fe.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/main_8d674222e7618b67214aa46e59d96fcd745582ef.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/main_8d674222e7618b67214aa46e59d96fcd745582ef.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/picasso-2.5.2_8f03e22ef2e9de67ac97d13860edce75f34440bb.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/picasso-2.5.2_8f03e22ef2e9de67ac97d13860edce75f34440bb.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_9bc4422ff809a63a51be64bfbd1eb2c75fbadd5f.jar" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_9bc4422ff809a63a51be64bfbd1eb2c75fbadd5f.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$style.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/design/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$drawable.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$id.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$integer.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$layout.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$menu.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$raw.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$raw.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$string.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$style.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$styleable.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$xml.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/rastreabilidadeinterna/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimentoHortifruti.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityRecebimentoHortifruti.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$1$1.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$1.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$2.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$3.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$4.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$5.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$6.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$7.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$8.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFrios.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$1$1.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$1.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$2.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$3.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$4.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$6.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$7.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$8.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivitySelecionaRecebimentoFriosItem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityTeste$1.class" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/rastreabilidadeInterna/centrodedistribuicao/ActivityTeste$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/StMarket/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/generated/source/r/debug/com/example/rastreabilidadeinterna/R.java" afterPath="$PROJECT_DIR$/StMarket/build/generated/source/r/debug/com/example/rastreabilidadeinterna/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-am.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-am.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-bg.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-bg.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ca.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ca.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-cs.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-cs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-de.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-de.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-el.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-el.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-en-rGB.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-en-rGB.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-es-rUS.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-es-rUS.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-es.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-es.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-fi.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-fi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-fr.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-fr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-hr.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-hr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-hu.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-hu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-in.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-in.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-is-rIS.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-is-rIS.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ja.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ja.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ko.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ko.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-land.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-land.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-large-v4.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-large-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-nl.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-nl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-port.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-port.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-si-rLK.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-si-rLK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-sk.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-sk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-sw.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-sw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-tl.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-tl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-v21.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-vi.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-vi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-w360dp-v13.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-w360dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-w480dp-v13.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-w480dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-w600dp-v13.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-w600dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-zu.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values-zu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/color.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/color.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/drawable-xxxhdpi.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/drawable-xxxhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/layout-land.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/layout-land.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/layout-large-port-v4.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/layout-large-port-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/layout-ldpi-v4.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/layout-ldpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/menu.json" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/blame/res/debug/single/menu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/instant-run-support/debug/manifest.crc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/instant-run-support/debug/manifest.xml" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/instant-run-support/debug/manifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout/activity_seleciona_recebimento_frios.xml" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/layout/activity_seleciona_recebimento_frios.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-v21/values-v21.xml" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values-v21/values-v21.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/StMarket/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StMarket/StMarket.iml" afterPath="$PROJECT_DIR$/StMarket/StMarket.iml" />
     </list>
     <ignored path="stm_app-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -627,12 +72,12 @@
     <favorites_list name="stm_app-master" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/StMarket/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+            <state relative-caret-position="182">
+              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -2358,7 +1803,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2377,41 +1822,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stm_app-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stm_app-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StMarket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stm_app-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stm_app-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="AndroidView">
         <subPane />
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2920,7 +2337,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16611843" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2932,15 +2349,15 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18914473" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18914473" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20559211" sideWeight="0.49694657" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47368422" sideWeight="0.67927384" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22039473" sideWeight="0.67927384" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3618421" sideWeight="0.5030257" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3214826" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1323752" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3214826" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1323752" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3060,13 +2477,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StMarket/src/main/res/layout/splash.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-21/android/content/Context.java">
@@ -3197,13 +2614,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StMarket/src/main/res/layout/activity_tela_inicial.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nm2k45ek.fvg.txt" />
@@ -3278,13 +2695,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StMarket/src/main/res/layout/activity_seleciona_recebimento_frios.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="55" column="57" selection-start-line="55" selection-start-column="57" selection-end-line="55" selection-end-column="57" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-21/android/view/View.java">
@@ -3398,14 +2815,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StMarket/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        <state relative-caret-position="182">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
           <folding />
         </state>
       </provider>
