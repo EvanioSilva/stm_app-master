@@ -76,16 +76,15 @@ public class ActivitySelecionaRecebimentoFrios extends Activity {
 
         btnOder1 = (Button) findViewById(R.id.btnOrd1);
         btnOder2 = (Button) findViewById(R.id.btnOrd2);
-        btnOder3 = (Button) findViewById(R.id.btnOrd3);
 
         //Placa
         btnOder1.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Collections.sort(opcoes, new Comparator<String>() {
                     public int compare(String s1, String s2) {
-                        String a =  s1.split("_")[0];
-                        String b =  s2.split("_")[0];
-                        return b.compareTo(a);
+                        String a =  s1.split("_")[1];
+                        String b =  s2.split("_")[1];
+                        return a.compareTo(b);
                     }
                 });
                 popularLista(true);
@@ -97,28 +96,15 @@ public class ActivitySelecionaRecebimentoFrios extends Activity {
             public void onClick(View v) {
                 Collections.sort(opcoes, new Comparator<String>() {
                     public int compare(String s1, String s2) {
-                        String a =  s1.split("_")[1];
-                        String b =  s2.split("_")[1];
-                        return b.compareTo(a);
+                        String a =  s1.split("_")[2];
+                        String b =  s2.split("_")[2];
+                        return a.compareTo(b);
                     }
                 });
                 popularLista(true);
             }
         });
 
-        //Nota
-        btnOder3.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                Collections.sort(opcoes, new Comparator<String>() {
-                    public int compare(String s1, String s2) {
-                        String a =  s1.split("_")[2];
-                        String b =  s2.split("_")[2];
-                        return b.compareTo(a);
-                    }
-                });
-                popularLista(true);
-            }
-        });
     };
 
     private void defineComponente(){

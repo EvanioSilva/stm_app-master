@@ -3,78 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="C:\Vipper\stm_app-master\StMarket\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
-        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.0_53afe9c92344c5205d199dedae1b5adca20ffa21.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Vipper\stm_app-master\StMarket\libs\commons-net-3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="2298164a7c2484406f2aa5ac85b205d39019896f">
-        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\commons-net-3.1_d0ff94e439488b938c20ce105eabc904d7906611.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Vipper\stm_app-master\StMarket\build\intermediates\exploded-aar\com.github.satyan\sugar\1.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="d59de211e85bc8c7f75c7a4890d229ff8c4dab87">
-        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\com.github.satyan-sugar-1.3.1_a0c9a9b2b103fa36400527de20e5d503be4373ec.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vipper\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_9bc4422ff809a63a51be64bfbd1eb2c75fbadd5f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Vipper\stm_app-master\StMarket\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="d21b6a9abf9f675494354403b24dd84369718a68">
-        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\instant-run_f20fd0febc0d8589e200fd8be6f87440842b80ca.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Vipper\stm_app-master\StMarket\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
-        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-21.0.0_3f47804dcc519d2c40af0873180ef4595ccf8449.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Vipper\stm_app-master\StMarket\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="d73eea6b90eef36f1834d9494231b087fca103c9">
-        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\instant-run-bootstrap_84ffb7db9c9004feb9488a92d0c5333d65e86382.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\vipper\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\picasso-2.5.2_8f03e22ef2e9de67ac97d13860edce75f34440bb.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Vipper\stm_app-master\StMarket\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -102,12 +30,75 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Vipper\stm_app-master\StMarket\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.0_53afe9c92344c5205d199dedae1b5adca20ffa21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Vipper\stm_app-master\StMarket\libs\commons-net-3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2298164a7c2484406f2aa5ac85b205d39019896f">
+        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\commons-net-3.1_d0ff94e439488b938c20ce105eabc904d7906611.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Vipper\stm_app-master\StMarket\build\intermediates\exploded-aar\com.github.satyan\sugar\1.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d59de211e85bc8c7f75c7a4890d229ff8c4dab87">
+        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\com.github.satyan-sugar-1.3.1_a0c9a9b2b103fa36400527de20e5d503be4373ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Vipper\stm_app-master\StMarket\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="7d2525cba8ed61fff102977caed964fc22061e34">
         <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.0_e4a4e6d2a3282d400d943aa700e9b9076567eb88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vipper\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_9bc4422ff809a63a51be64bfbd1eb2c75fbadd5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Vipper\stm_app-master\StMarket\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3efab52690356090a04b8d3b5e86137ca1e20b89">
+        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\instant-run_f20fd0febc0d8589e200fd8be6f87440842b80ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Vipper\stm_app-master\StMarket\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bc79e7b075e3e7142694e079baa24692fd9057a3">
+        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\instant-run-bootstrap_84ffb7db9c9004feb9488a92d0c5333d65e86382.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Vipper\stm_app-master\StMarket\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-21.0.0_3f47804dcc519d2c40af0873180ef4595ccf8449.jar" />
     </item>
     <item
         is-multidex="false"
@@ -126,6 +117,15 @@
         revision="21.1.2"
         sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
         <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\gson-2.3.1_22f148885e90585e4fec70bf04f96071a36a6f4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vipper\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Vipper\stm_app-master\StMarket\build\intermediates\pre-dexed\debug\picasso-2.5.2_8f03e22ef2e9de67ac97d13860edce75f34440bb.jar" />
     </item>
 
 </items>

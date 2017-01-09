@@ -53,9 +53,6 @@ public class ActivitySelecionaRecebimentoFriosItem extends Activity {
 
     private String filenamemask;
 
-    private Button btnOder1;
-    private Button btnOder2;
-    private Button btnOder3;
     public List<String> opcoes = null;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -73,54 +70,9 @@ public class ActivitySelecionaRecebimentoFriosItem extends Activity {
         defineComponente();
         defineAction();
         carregaLista();
-        preparaOrdenacao();
 
         setStatus();
     }
-
-    private void preparaOrdenacao() {
-
-        btnOder1 = (Button) findViewById(R.id.btnOrd1);
-        btnOder2 = (Button) findViewById(R.id.btnOrd2);
-        btnOder3 = (Button) findViewById(R.id.btnOrd3);
-
-        btnOder1.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                Collections.sort(opcoes, new Comparator<String>() {
-                    public int compare(String s1, String s2) {
-                        String a = s1.substring(1, 2);
-                        String b = s1.substring(1, 2);
-                        return a.compareTo(b);
-                    }
-                });
-                popularLista();
-            }
-        });
-        btnOder2.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                Collections.sort(opcoes, new Comparator<String>() {
-                    public int compare(String s1, String s2) {
-                        String a = s1.substring(1, 2);
-                        String b = s1.substring(1, 2);
-                        return a.compareTo(b);
-                    }
-                });
-                popularLista();
-            }
-        });
-        btnOder3.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                Collections.sort(opcoes, new Comparator<String>() {
-                    public int compare(String s1, String s2) {
-                        String a = s1.substring(1, 2);
-                        String b = s1.substring(1, 2);
-                        return a.compareTo(b);
-                    }
-                });
-                popularLista();
-            }
-        });
-    };
 
     private void defineComponente(){
         btnManual = (Button) findViewById(R.id.btnManual);
