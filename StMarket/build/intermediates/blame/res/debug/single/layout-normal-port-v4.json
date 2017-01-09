@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-normal-port-v4\\activity_controleestoque_principal.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\layout-normal-port\\activity_controleestoque_principal.xml"
+    },
+    {
+        "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-normal-port-v4\\varglobais.xml",
+        "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\layout-normal-port\\varglobais.xml"
+    }
+]

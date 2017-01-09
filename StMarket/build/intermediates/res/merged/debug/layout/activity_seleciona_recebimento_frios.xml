@@ -46,17 +46,14 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Placa"
-                    android:id="@+id/btnOrd1"/>
+                    android:id="@+id/btnOrd1"
+                    android:drawableRight="@drawable/sort" />
                 <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Fornecedor"
-                    android:id="@+id/btnOrd2"/>
-                <Button
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Nota"
-                    android:id="@+id/btnOrd3"/>
+                    android:id="@+id/btnOrd2"
+                android:drawableRight="@drawable/sort" />
             </TableRow>
 
         </android.widget.TableLayout>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/estoq_btnStatus"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="right"
+            android:gravity="right"
+            android:background="@drawable/shape_nav_not_no"
+            android:layout_alignParentRight="true"
+            />
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="24"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtCodigoProduto"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:inputType="text"
+                android:hint="Código do Produto"
+                android:nextFocusForward="@+id/edtMarca"
+                android:textSize="@dimen/form_input_size_small"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Código do Produto"
+                android:textSize="@dimen/form_text_size"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="24"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <AutoCompleteTextView
+                android:id="@+id/edtNomeProduto"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:inputType="text"
+                android:hint="Nome Do Produto"
+                android:nextFocusForward="@+id/edtSetor"
+                android:textSize="@dimen/form_input_size_small"
+                />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Nome do produto"
+                android:textSize="@dimen/form_text_size"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="24"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <AutoCompleteTextView
+                android:id="@+id/edtNomeFornecedor"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:inputType="text"
+                android:hint="Fornecedor"
+                android:nextFocusForward="@+id/edtSetor"
+                android:textSize="@dimen/form_input_size_small"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Fornecedor"
+                android:textSize="@dimen/form_text_size"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="24"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+            <EditText
+                android:imeOptions="flagNoExtractUi"
+
+                android:id="@+id/edtTotalEntregue"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_large_input_weight"
+                android:enabled="true"
+                android:inputType="number"
+                android:hint="Total Entregue"
+                android:nextFocusForward="@+id/edtPh"
+                android:nextFocusDown="@+id/edtDataFab"
+                android:textSize="@dimen/form_input_size_small"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="@integer/form_medium_input_weight"
+                android:layout_gravity="top|right"
+                android:gravity="top|right"
+                android:text="Total Entregue (Unidade de Caixas)"
+                android:textSize="@dimen/form_text_size"
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="44"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="16">
+
+        <Button
+            android:id="@+id/btnLimpar"
+            android:layout_width="0dp"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:layout_height="match_parent"
+            android:text="Limpar"
+            />
+
+        <Button
+            android:id="@+id/btnAmostrar"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="@integer/form_medium_input_weight"
+            android:layout_gravity="center"
+            android:text="Amostragem"
+            />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8">
+
+    </View>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="16"
+        android:text="Finalizar Carga"
+        android:id="@+id/btnFinalizarCarga"
+        />
+
+</LinearLayout>

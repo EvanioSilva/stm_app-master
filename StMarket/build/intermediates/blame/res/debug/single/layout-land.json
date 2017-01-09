@@ -1,23 +1,11 @@
 [
     {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_tela_inicial_centro_de_distribuicao.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\layout-land\\fragment_tela_inicial_centro_de_distribuicao.xml"
-    },
-    {
         "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_tela_inicial_loja.xml",
         "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\layout-land\\fragment_tela_inicial_loja.xml"
     },
     {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-land\\share.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\layout-land\\share.xml"
-    },
-    {
         "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-land\\share.xml",
         "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\layout-land\\share.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_tela_inicial_loja.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\layout-land\\fragment_tela_inicial_loja.xml"
     },
     {
         "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_tela_inicial_centro_de_distribuicao.xml",
@@ -26,9 +14,5 @@
     {
         "merged": "C:\\Vipper\\stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-land\\encode.xml",
         "source": "C:\\Vipper\\stm_app-master\\StMarket\\src\\main\\res\\layout-land\\encode.xml"
-    },
-    {
-        "merged": "C:\\Vipper\\_stm_app-master\\StMarket\\build\\intermediates\\res\\merged\\debug\\layout-land\\encode.xml",
-        "source": "C:\\Vipper\\_stm_app-master\\StMarket\\src\\main\\res\\layout-land\\encode.xml"
     }
 ]
