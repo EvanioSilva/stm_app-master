@@ -49,4 +49,11 @@
     <!-- Backward-compatible version of ?android:attr/buttonBarButtonStyle -->
     <style name="ButtonBarButton" />
 
+    <style name="CustomLight" parent="android:Theme.DeviceDefault.Light">
+        <item name="android:buttonStyle">@android:style/Widget.Button</item>
+        <item name="android:button">@android:style/Widget.Button</item>
+    </style>
+
+
+
 </resources>
