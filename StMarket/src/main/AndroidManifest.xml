@@ -37,7 +37,7 @@
         android:allowBackup="true"
         android:icon="@drawable/ic_stmarket"
         android:label="ST Market"
-        android:theme="@android:style/Theme.DeviceDefault.Light"
+        android:theme="@style/CustomLight"
         tools:replace="android:icon">
         <activity
             android:name="com.rastreabilidadeInterna.geral.MainSplashScreen"
